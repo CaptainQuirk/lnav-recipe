@@ -1,0 +1,3 @@
+apt "Installing lnav"; do
+    package "lnav"
+do
